@@ -5,5 +5,6 @@ The material used for coding and learning linear algebra is "Coding the Matrix-L
 Though the book uses python for coding, this repository/work is being aimed at creating both Python and C++ codes.
 
 
-This is currently a work in progress, so you may find parts of code not working.Do read the commit messages for more info.
+This is currently work in progress, so you may find parts of code not working.Do read the commit messages for more info.
+
 Please bear with me until its completely up and out.
