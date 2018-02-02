@@ -1,6 +1,6 @@
 This repository has been created with the intension of practicing linear algebra with coding.
 
-The material used for coding and learning linear algebra is "Coding the Matrix-Linear Algebra through applications to Computer Science" by Philp N. Klein.
+The material used for coding and learning linear algebra is "Coding the Matrix-Linear Algebra through applications to Computer Science" by Philip N. Klein.
 
 Though the book uses python for coding, this repository/work is being aimed at creating both Python and C++ codes.
 
